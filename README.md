@@ -4,10 +4,9 @@
 <h2 align="left">📫 How to reach me: tubacalci@hotmail.com </h2>
 
 ###
-###
 
 <div align="left">
-  <p align="left">
+  <p align="center">
     <a href="mailto:tubacalci@hotmail.com">
       <img src="https://img.shields.io/static/v1?message=Hotmail&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="hotmail logo" />
     </a>
