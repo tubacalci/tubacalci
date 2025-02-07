@@ -4,10 +4,11 @@
 <h2 align="left">📫 How to reach me: tubacalci@hotmail.com </h2>
 
 ###
-  
-<div style="text-align: center;">
+<div align="center">
     <img height="300" src="https://media0.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif" />
 </div>
+
+<br>
 
 
 </div>
@@ -32,8 +33,7 @@
 
 ###
 
- 
-  <div>
+ <div align="center">
     <a href="mailto:tubacalci@hotmail.com">
       <img src="https://img.shields.io/static/v1?message=Hotmail&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="35" />
     </a>
@@ -46,6 +46,6 @@
     <a href="mailto:calcituba@gmail.com">
       <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" />
     </a>
-  </div>
+</div>
 
-  ### 
+###
