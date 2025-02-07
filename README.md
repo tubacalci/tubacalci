@@ -5,8 +5,11 @@
 
 ###
 
+
+
+
 <div align="left">
-  <p align="center">
+  <p align="left">
     <a href="mailto:tubacalci@hotmail.com">
       <img src="https://img.shields.io/static/v1?message=Hotmail&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="hotmail logo" />
     </a>
