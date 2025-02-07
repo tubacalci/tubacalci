@@ -4,29 +4,29 @@
 <h2 align="left">📫 How to reach me: tubacalci@hotmail.com </h2>
 
 ###
-
-
-
-
-<div align="left">
-  <p align="left">
+<div style="display: flex; align-items: center; justify-content: space-between;">
+  
+  <!-- Sosyal Medya Butonları -->
+  <div>
     <a href="mailto:tubacalci@hotmail.com">
-      <img src="https://img.shields.io/static/v1?message=Hotmail&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="hotmail logo" />
+      <img src="https://img.shields.io/static/v1?message=Hotmail&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="35" />
     </a>
     <a href="https://www.linkedin.com/in/tubaclc" target="_blank">
-      <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
+      <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" />
     </a>
     <a href="https://medium.com/@tubacalci" target="_blank">
-      <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="medium logo" />
+      <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge" height="35" />
     </a>
     <a href="mailto:calcituba@gmail.com">
-      <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
+      <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" />
     </a>
-  </p>
-</div>
+  </div>
 
-<div align="right">
-  <img height="200" width= "200" src="https://media0.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif?cid=6c09b952o3wa6hoydkl6lvr6fnwc6hijv7e2mlneag8uoow5&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g"  />
+  <!-- GIF -->
+  <div>
+    <img height="150" src="https://media0.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif" />
+  </div>
+
 </div>
 
 ###
