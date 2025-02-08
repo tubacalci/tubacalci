@@ -10,8 +10,6 @@
 
 ###
 
-<br clear="both">
-
 <img src="https://raw.githubusercontent.com/tubacalci/tubacalci/output/snake.svg" alt="Snake animation" />
 
 ###
