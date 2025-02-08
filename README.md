@@ -9,12 +9,7 @@
 </div>
 
 ###
-
-<div style="text-align: center;">
-    <img src="https://raw.githubusercontent.com/tubacalci/tubacalci/output/snake.svg" alt="Snake animation">
-</div>
-
-
+<img src="https://raw.githubusercontent.com/tubacalci/tubacalci/output/snake.svg" alt="Snake animation" />
 ###
 
 
