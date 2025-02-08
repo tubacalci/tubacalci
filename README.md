@@ -7,10 +7,8 @@
 <div align="center">
     <img height="300" src="https://media0.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif" />
 </div>
-</div>
 
 ###
-
 
 <br clear="both">
 
