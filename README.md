@@ -18,7 +18,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tubacalci&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&cache_seconds=0" height="150" alt="languages graph" />
 </div>
 
-
 ###
 
  <div align="center">
