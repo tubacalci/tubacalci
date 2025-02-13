@@ -4,11 +4,13 @@
 <h2 align="left">📫 How to reach me: tubacalci@hotmail.com </h2>
 
 ###
+
 <div align="center">
     <img height="300" src="https://media0.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif" />
 </div>
 
 ###
+
 <img src="https://raw.githubusercontent.com/tubacalci/tubacalci/output/snake.svg" alt="Snake animation" />
 
 <div align="center">
