@@ -1,6 +1,6 @@
-<h2 align="left">👋 Hello! My name is Tuba. </h2>
-<h2 align="left">👀 I’m interested in Data Science and Artificial Intelligence. </h2>
-<h2 align="left">🌱 I’m currently studying Software Engineering. </h2>
+<h2 align="left">👋 Hello! My name is Tuba </h2>
+<h2 align="left">👀 I’m interested in Data Science and Artificial Intelligence </h2>
+<h2 align="left">🌱 I’m currently studying Software Engineering </h2>
 <h2 align="left">📫 How to reach me: tubacalci@hotmail.com </h2>
 
 ###
